@@ -1,0 +1,1218 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    Assembly-CSharp-firstpass.dll:
+    - SimpleInputNamespace.ButtonInputUI
+    - SimpleInputNamespace.Joystick
+    Assembly-CSharp.dll:
+    - CanvasBehaviour
+    - EditorModeBihavior
+    - EnemyBehevior
+    - GameManager
+    - PlayerBehaviour
+    - ScoreBehevior
+    - Spine.Unity.AnimationReferenceAsset
+    - Spine.Unity.AtlasAsset
+    - Spine.Unity.SkeletonAnimation
+    - Spine.Unity.SkeletonDataAsset
+    - TimerBehevior
+    - snowballBehevior
+    Unity.Rider.Editor.dll:
+    - Packages.Rider.Editor.UnitTesting.CallbackData
+    UnityEditor.TestRunner.dll:
+    - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
+    - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
+    UnityEngine.UI.dll:
+    - UnityEngine.EventSystems.EventSystem
+    - UnityEngine.EventSystems.StandaloneInputModule
+    - UnityEngine.UI.AspectRatioFitter
+    - UnityEngine.UI.Button
+    - UnityEngine.UI.CanvasScaler
+    - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.Image
+    - UnityEngine.UI.Text
+  sceneClasses:
+    Assets/Game/Scenes/fight.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 49
+      Script: {instanceID: 0}
+    - Class: 50
+      Script: {instanceID: 0}
+    - Class: 58
+      Script: {instanceID: 0}
+    - Class: 60
+      Script: {instanceID: 0}
+    - Class: 61
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11238}
+    - Class: 114
+      Script: {instanceID: 11274}
+    - Class: 114
+      Script: {instanceID: 11284}
+    - Class: 114
+      Script: {instanceID: 11326}
+    - Class: 114
+      Script: {instanceID: 11452}
+    - Class: 114
+      Script: {instanceID: 11496}
+    - Class: 114
+      Script: {instanceID: 11700}
+    - Class: 114
+      Script: {instanceID: 11702}
+    - Class: 114
+      Script: {instanceID: 11828}
+    - Class: 114
+      Script: {instanceID: 11962}
+    - Class: 114
+      Script: {instanceID: 12132}
+    - Class: 114
+      Script: {instanceID: 12294}
+    - Class: 114
+      Script: {instanceID: 12442}
+    - Class: 114
+      Script: {instanceID: 12498}
+    - Class: 114
+      Script: {instanceID: 12518}
+    - Class: 114
+      Script: {instanceID: 12636}
+    - Class: 114
+      Script: {instanceID: 12666}
+    - Class: 114
+      Script: {instanceID: 13032}
+    - Class: 114
+      Script: {instanceID: 13066}
+    - Class: 114
+      Script: {instanceID: 13148}
+    - Class: 114
+      Script: {instanceID: 13240}
+    - Class: 114
+      Script: {instanceID: 13510}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 198
+      Script: {instanceID: 0}
+    - Class: 199
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: 8e968c6b723ee92d162d72a175bf4bed
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Examples
+    className: SkeletonColorInitialize
+  - hash:
+      serializedVersion: 2
+      Hash: 4bc4346a71a8df53a6b106f68ef3a190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: CanvasScaler
+  - hash:
+      serializedVersion: 2
+      Hash: d6bc1134df4d5855b44632809aa3273a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Examples
+    className: TwoByTwoTransformEffectExample
+  - hash:
+      serializedVersion: 2
+      Hash: c42672c997f8be6b1aa86a927ebea785
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SelectionCaret
+  - hash:
+      serializedVersion: 2
+      Hash: ede8b89cdfa881a977e1a47c8bd6b934
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GameManager
+  - hash:
+      serializedVersion: 2
+      Hash: de528d216919dab13c72d1f2402522d4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Modules
+    className: SpineEventUnityHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 135b572a06d6912dd26e4181d5f65232
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: snowballBehevior
+  - hash:
+      serializedVersion: 2
+      Hash: 5272f47f6745839878cd82ba42113893
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Examples
+    className: FootSoldierExample
+  - hash:
+      serializedVersion: 2
+      Hash: 87ff43d2baf3385cba327d8f803a4ebb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 626925ef558787b2d85c809198164d19
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: c88cdbb4d579cd1a33fcf30eca180fd7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: HurtFlashEffect
+  - hash:
+      serializedVersion: 2
+      Hash: 30af5f62e532d3044e78a10afa87ab99
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity
+    className: AnimationReferenceAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 45a19c684713d0205ed64ed000601926
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Examples
+    className: SpineboyBodyTilt
+  - hash:
+      serializedVersion: 2
+      Hash: 6be76c5c8c880d22b6f21af8b547fc8b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Examples
+    className: SpawnFromSkeletonDataExample
+  - hash:
+      serializedVersion: 2
+      Hash: e8e6884f9aa59c3f25a5eb28f6416d62
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Modules
+    className: SkeletonRendererCustomMaterials
+  - hash:
+      serializedVersion: 2
+      Hash: 59d42223173237c4d6bb83ae8d770cb6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Examples
+    className: SpineboyFacialExpression
+  - hash:
+      serializedVersion: 2
+      Hash: c89a1384954d290f5a73fc9263adcfdc
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: SimpleInputNamespace
+    className: AxisInputKeyboard
+  - hash:
+      serializedVersion: 2
+      Hash: e7a73f5f78ba6445195ec23b74a1ce2d
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_ScrollbarEventHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: PlayerQuitHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ImageBihavior
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: GroupTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 5dbf5f0589849f3aa47ed114304567af
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: SimpleInputNamespace
+    className: MouseButtonInputKeyboard
+  - hash:
+      serializedVersion: 2
+      Hash: a5781dc71a671b1ad2b38de19f24b71f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: aeb62f729c52c814dec86c47dcac1471
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Text
+  - hash:
+      serializedVersion: 2
+      Hash: da676a32011b5d8264987d787411eef3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LifesShow
+  - hash:
+      serializedVersion: 2
+      Hash: 499fd23433e68e265d153aa6b95d0047
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Scrollbar
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: PositionAsUV1
+  - hash:
+      serializedVersion: 2
+      Hash: abf1930d8126d0b2e00e9449129a0190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: TouchInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: f1fb891953e2bf6f29a35ea6724e2ffc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Examples
+    className: EquipAssetExample
+  - hash:
+      serializedVersion: 2
+      Hash: 89f9a1b4c64db9559e39f4a2e3bfaadd
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Image
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: TestResultRendererCallback
+  - hash:
+      serializedVersion: 2
+      Hash: 234235b9fb07320d11497e08a726cc56
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_InputField
+  - hash:
+      serializedVersion: 2
+      Hash: 0e36de8a1e35035e5cd579b75a88f295
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity
+    className: EventDataReferenceAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 7ab0e790220bdca831fdd886b339039d
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GridLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: SimpleInputNamespace
+    className: SimpleInputMultiDragListener
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Examples
+    className: DraggableTransform
+  - hash:
+      serializedVersion: 2
+      Hash: 8aa3d6ccbcb54ee8db6c1229854adaaa
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ContentSizeFitter
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 3da0167245797ee5f057d06cea5f19d4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Modules
+    className: SkeletonRagdoll2D
+  - hash:
+      serializedVersion: 2
+      Hash: 0dbc3be398b4869a5c8d0d8481ee402c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: LayoutElement
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: PhysicsRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: b8b6652c91ec156e4590d6a8f7eff3be
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Modules
+    className: SkeletonRagdoll
+  - hash:
+      serializedVersion: 2
+      Hash: 158ffb543d45ff9010f242d7a12154b7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Examples
+    className: SpineboyBeginnerModel
+  - hash:
+      serializedVersion: 2
+      Hash: ed8a4df450e3fe1ccf2c05d20a8ba1b9
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: SimpleInputNamespace
+    className: AxisInputRotateGesture
+  - hash:
+      serializedVersion: 2
+      Hash: e0978a597b621db4180557fb5e5cd19e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Examples
+    className: SpineboyBeginnerInput
+  - hash:
+      serializedVersion: 2
+      Hash: bd3cf68c8964d3c66d1c43f4f98508c9
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: dd8bd395dde7ba733b8eee4d1e1d272b
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: SimpleInputNamespace
+    className: ButtonInputUI
+  - hash:
+      serializedVersion: 2
+      Hash: cf9f5cf2c3145a37ac07f00e50e460f9
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: AspectRatioFitter
+  - hash:
+      serializedVersion: 2
+      Hash: 522af6ad17aca828a2a0edd99445d832
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Examples
+    className: AttackSpineboy
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RectMask2D
+  - hash:
+      serializedVersion: 2
+      Hash: d941ab6dd93d37ffdf2277f2ea2375a0
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMeshUI
+  - hash:
+      serializedVersion: 2
+      Hash: bffcadb9797d8be363f802c42841d9a7
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: SimpleInputNamespace
+    className: NonDrawingGraphic
+  - hash:
+      serializedVersion: 2
+      Hash: 437db3925affdab8506dcbde3dda9f0a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity
+    className: SkeletonRenderer
+  - hash:
+      serializedVersion: 2
+      Hash: 56b69fd124d87b205f0bba400d6c3eda
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Modules
+    className: SkeletonRenderSeparator
+  - hash:
+      serializedVersion: 2
+      Hash: 5ab533713adae59372fb3e10a585c186
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: fd002ce50fbdb51fc26a9ad290e29e50
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Modules
+    className: SpriteAttacher
+  - hash:
+      serializedVersion: 2
+      Hash: e6f96a46bbb6c2cdbd45324a60dce2ac
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlayerBehaviour
+  - hash:
+      serializedVersion: 2
+      Hash: aba7b2852ef61d175dd9602e7723d5e5
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Mask
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Shadow
+  - hash:
+      serializedVersion: 2
+      Hash: acf95b8a1582b7d5ec58788c494af70a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Examples
+    className: SpineboyPole
+  - hash:
+      serializedVersion: 2
+      Hash: 6c3ab6416a2242eb2a5e5171bd46d111
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SceneObject
+  - hash:
+      serializedVersion: 2
+      Hash: 53ae9f80f9a4f8a64e6418c1008dc1fd
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: SimpleInputNamespace
+    className: MouseButtonInputSwipeGesture
+  - hash:
+      serializedVersion: 2
+      Hash: cca69927d43c4d329b1519f73fdc9fe6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Examples
+    className: MixAndMatch
+  - hash:
+      serializedVersion: 2
+      Hash: 452034bc115721a46591769a06814093
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity
+    className: PointFollower
+  - hash:
+      serializedVersion: 2
+      Hash: cc4274b586df3c02688bac01b88bd16c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventSystem
+  - hash:
+      serializedVersion: 2
+      Hash: 0fb27be807aa299702f28ad0bcad1f46
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: bd919d562c27aeaf034dfd2165ddedd6
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: SimpleInputNamespace
+    className: Dpad
+  - hash:
+      serializedVersion: 2
+      Hash: e4138598a30e2d8011d80915f62f3081
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: SimpleInputNamespace
+    className: AxisInputUI
+  - hash:
+      serializedVersion: 2
+      Hash: b8a5e8091ab0b8861d2add371082c5e0
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SpriteAsset
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 8dc90e648ac06f43bdd31ac9fa8f4579
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Selectable
+  - hash:
+      serializedVersion: 2
+      Hash: 26d7d2bce07e4dacb1a0efc8c6b4082b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Modules
+    className: SkeletonUtilityEyeConstraint
+  - hash:
+      serializedVersion: 2
+      Hash: b4672b813b40e30095d691cd7c29f752
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Examples
+    className: ConstrainedCamera
+  - hash:
+      serializedVersion: 2
+      Hash: e2956b115cc6a34c0cf3ed95218355a0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Examples
+    className: SpineboyFreeze
+  - hash:
+      serializedVersion: 2
+      Hash: 83523c8ac67996dd4b32d91c46a6271a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity
+    className: SkeletonAnimation
+  - hash:
+      serializedVersion: 2
+      Hash: cd48a96ab167746b0145cf24a3342daf
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Modules
+    className: SlotBlendModes
+  - hash:
+      serializedVersion: 2
+      Hash: f8809a8b93dcfdb58ac14ae0dfad21e4
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: SimpleInputNamespace
+    className: ButtonInputKeyboard
+  - hash:
+      serializedVersion: 2
+      Hash: f88f1f68835078ed72af8f56c1b91d57
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Examples
+    className: SpineboyTargetController
+  - hash:
+      serializedVersion: 2
+      Hash: b3ab2106268377ffe25dd18ac23dca28
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Asset
+  - hash:
+      serializedVersion: 2
+      Hash: 07340dc3493dccaa83b645db5e5d5513
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: SimpleInputNamespace
+    className: MouseButtonInputUI
+  - hash:
+      serializedVersion: 2
+      Hash: 601112efbb6ea9a5d557ad1b4ccf9be5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Examples
+    className: CombinedSkin
+  - hash:
+      serializedVersion: 2
+      Hash: d4020bafcd3ccbb5601a6e6c8ac78be0
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ScrollRect
+  - hash:
+      serializedVersion: 2
+      Hash: c825f3978f125d684948a2368b44aaf8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity
+    className: SkeletonAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: afeaecceabc8e81037939b66f6d91671
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Examples
+    className: Goblins
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 4a2dad2a2a403ace8a155c9e0ac378de
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: SimpleInputNamespace
+    className: UnityInputProvider
+  - hash:
+      serializedVersion: 2
+      Hash: 5ca73a4690389d64e32d641c0f9ea6f5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Examples
+    className: BasicPlatformerController
+  - hash:
+      serializedVersion: 2
+      Hash: 53457a83a86643df7486c9a17554adf4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Examples
+    className: SpineboyFootplanter
+  - hash:
+      serializedVersion: 2
+      Hash: a954e202d3ca1c241cffae4a25d72962
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: SimpleInputNamespace
+    className: Joystick
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SpriteAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: 651425b15a713f850bd743dbf894a64a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity
+    className: SkeletonUtility
+  - hash:
+      serializedVersion: 2
+      Hash: 5521d1f8c1bce1ae07245229da3e5ba3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Examples
+    className: TransitionDictionaryExample
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: RemoteTestResultSender
+  - hash:
+      serializedVersion: 2
+      Hash: 9b1b3dbec969dc2f5c4232ac831d6850
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: SimpleInputNamespace
+    className: AxisInputSwipeGesture
+  - hash:
+      serializedVersion: 2
+      Hash: a9fa8b65ac4b5683de4a0779fd511cfc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Examples
+    className: SpineGauge
+  - hash:
+      serializedVersion: 2
+      Hash: 4fd8bf02e3089425d3502e26c44ba31a
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextContainer
+  - hash:
+      serializedVersion: 2
+      Hash: 5f1752ed2092162f016c19510c28a8b9
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Button
+  - hash:
+      serializedVersion: 2
+      Hash: 9765b7b3c09871e3998566f883a92301
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Modules
+    className: SkeletonGhostRenderer
+  - hash:
+      serializedVersion: 2
+      Hash: f84d945e5e1ca985698660fc26e9657f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RawImage
+  - hash:
+      serializedVersion: 2
+      Hash: 64f1d5e38ef00389c974885477f828c6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity
+    className: SkeletonAnimationMulti
+  - hash:
+      serializedVersion: 2
+      Hash: 5638704286073716143cc2ca580b50fc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity
+    className: AtlasAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 5fc42c9385150c9d8b3f9c68618fda43
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TimerBehevior
+  - hash:
+      serializedVersion: 2
+      Hash: 40624bf70c8b3d398ed86c95b4df3ca0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Examples
+    className: MixAndMatchGraphic
+  - hash:
+      serializedVersion: 2
+      Hash: 4694681bf754a46e5ee4de2aebf30b05
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Examples
+    className: RaggedySpineboy
+  - hash:
+      serializedVersion: 2
+      Hash: 56cbd315914b921c8d3efe2b313d3d71
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Examples
+    className: SlotTintBlackFollower
+  - hash:
+      serializedVersion: 2
+      Hash: 5ad4aa237d47ac2bab17bacb672edf7a
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: VerticalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: a8150c5b810f92b5c91442a83b675a76
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Modules
+    className: SkeletonGhost
+  - hash:
+      serializedVersion: 2
+      Hash: fde9ba55e383c9342264d588ba9c63d2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Modules
+    className: SkeletonGraphicMirror
+  - hash:
+      serializedVersion: 2
+      Hash: 343ded3cfaf445e47361e49f29aaf4ef
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity
+    className: SkeletonDataAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 3fd88a06891cc3d0886cedfd0311ce38
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: SimpleInputNamespace
+    className: KeyInputSwipeGesture
+  - hash:
+      serializedVersion: 2
+      Hash: 16b8890170c82b03317469166c3763da
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: EnemyBehevior
+  - hash:
+      serializedVersion: 2
+      Hash: 3a707e4f3ade082c59aa667959282c9c
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: SimpleInputNamespace
+    className: AxisInputMouse
+  - hash:
+      serializedVersion: 2
+      Hash: 923ba1efed8be1037cd17a8c4b7c45df
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Examples
+    className: SpineboyBeginnerView
+  - hash:
+      serializedVersion: 2
+      Hash: 783f593b9380cf72d0f7ebfd4a0d4bcd
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: InputField
+  - hash:
+      serializedVersion: 2
+      Hash: c9a8b80298a116835b51ba1cf9284367
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalReceiver
+  - hash:
+      serializedVersion: 2
+      Hash: 5ad4aa237d47ac2bab17bacb672edf7a
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: HorizontalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 35a9693c388776aaf487636491a20f11
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_FontAsset
+  - hash:
+      serializedVersion: 2
+      Hash: e1300922cc039f41ab46a47f4cb05898
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Settings
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: Physics2DRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: ba14dbf16bb3d62fab2e3d4c484d41cd
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: SimpleInputNamespace
+    className: SteeringWheel
+  - hash:
+      serializedVersion: 2
+      Hash: 16f34339b33189a715646f8bb8fce768
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Examples
+    className: BoneLocalOverride
+  - hash:
+      serializedVersion: 2
+      Hash: bf622c0c7564b4d159a2015571ae1cab
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity
+    className: SkeletonGraphic
+  - hash:
+      serializedVersion: 2
+      Hash: 451dd7dc3ff4c554a6272a6ed7e8947d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Examples
+    className: SpineBeginnerTwo
+  - hash:
+      serializedVersion: 2
+      Hash: 51a4f78d899c7cb9b632f18e1e4ce36f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity
+    className: BoneFollower
+  - hash:
+      serializedVersion: 2
+      Hash: c1933cc0a2f4ff6eb13333347497beb3
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: TimelineAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 92a5c7deb691e0c09cd7e5e0be6aadd1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Modules
+    className: SkeletonUtilityGroundConstraint
+  - hash:
+      serializedVersion: 2
+      Hash: b3a4697d03da27cbb8cf1ee4eeda029f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Examples
+    className: SpineBlinkPlayer
+  - hash:
+      serializedVersion: 2
+      Hash: b97f57a127111c60dd643463ed64d8a6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity
+    className: BoneFollowerGraphic
+  - hash:
+      serializedVersion: 2
+      Hash: ad4579779a0ba7293b12314aca2e846b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Modules
+    className: SkeletonUtilityKinematicShadow
+  - hash:
+      serializedVersion: 2
+      Hash: 41a3041db1ef9730156c70c76ec61049
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: ExamplePlayerController
+  - hash:
+      serializedVersion: 2
+      Hash: bb7857e3bff0a34b919feb40ab25e1ba
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity
+    className: BoundingBoxFollower
+  - hash:
+      serializedVersion: 2
+      Hash: 62b9b49eb438926ae33fdbd4ba994d3a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Examples
+    className: Rotator
+  - hash:
+      serializedVersion: 2
+      Hash: 8001a5f7502aab37e42206da015e6914
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextMeshProUGUI
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: SimpleInput
+  - hash:
+      serializedVersion: 2
+      Hash: f9ddaaf01f97bd1449728c921cef2da5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ScoreBehevior
+  - hash:
+      serializedVersion: 2
+      Hash: f336e086360abe49a3323e5f1583c35a
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioTrack
+  - hash:
+      serializedVersion: 2
+      Hash: cae006dd5cb6a56b42197311973f8c6b
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: SimpleInputNamespace
+    className: KeyInputUI
+  - hash:
+      serializedVersion: 2
+      Hash: ae83e830e7a90c0aff918c4c2e520825
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GraphicRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 88cc9df3c6fc697bfbeacd24c0d6f2d7
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools
+    className: BeforeAfterTestCommandState
+  - hash:
+      serializedVersion: 2
+      Hash: ff6b504fd10474cd406e20fdcc8604be
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Playables
+    className: SkeletonAnimationPlayableHandle
+  - hash:
+      serializedVersion: 2
+      Hash: 84221737756c8fcadd040a525248193e
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: SimpleInputNamespace
+    className: AxisInputPinchGesture
+  - hash:
+      serializedVersion: 2
+      Hash: 95aa038b4a1e10f8c53ef817b0e7e9ee
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Modules
+    className: AtlasRegionAttacher
+  - hash:
+      serializedVersion: 2
+      Hash: 2772c0f1445dff38ab8f4318fb81225e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Examples
+    className: Raptor
+  - hash:
+      serializedVersion: 2
+      Hash: b1fc55aad9b58d5d2f266422b7ef405d
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: SimpleInputNamespace
+    className: Touchpad
+  - hash:
+      serializedVersion: 2
+      Hash: ee919f17782a896da5ec8431216bb26b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: EditorModeBihavior
+  - hash:
+      serializedVersion: 2
+      Hash: 02d2287ff4e17d22567c9888314af90e
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: SimpleInputNamespace
+    className: KeyInputKeyboard
+  - hash:
+      serializedVersion: 2
+      Hash: a7788865e0c8bfe9c4d78534c354734a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Examples
+    className: EquipButtonExample
+  - hash:
+      serializedVersion: 2
+      Hash: e08a6cca7e60ff4f532c60d3e29f6452
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ReloadSceneOnKeyDown
+  - hash:
+      serializedVersion: 2
+      Hash: a5f35be53d99107c22329d3aede16beb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CanvasBehaviour
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: MarkerTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Modules
+    className: SkeletonPartsRenderer
+  - hash:
+      serializedVersion: 2
+      Hash: 8e45ac56350a2483b7c7de86b565cf18
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Examples
+    className: HandleEventWithAudioExample
+  - hash:
+      serializedVersion: 2
+      Hash: d791aa6007fa3640be1164ea75bb087d
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_StyleSheet
+  - hash:
+      serializedVersion: 2
+      Hash: f83fd4067b24260ac246349ea6b351b6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Examples
+    className: MaterialPropertyBlockExample
+  - hash:
+      serializedVersion: 2
+      Hash: 641b14fb33d73f103cf0b58a91d3a099
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity
+    className: SkeletonUtilityBone
+  - hash:
+      serializedVersion: 2
+      Hash: 65935e16a2460fcf993a982110668ee4
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: SimpleInputNamespace
+    className: ButtonInputSwipeGesture
+  - hash:
+      serializedVersion: 2
+      Hash: 616c801f27eb056ddeeeffac28dd4506
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Examples
+    className: EquipsVisualsComponentExample
+  - hash:
+      serializedVersion: 2
+      Hash: a471e6acca6ff4c5875cf3e0bc3905ff
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Examples
+    className: JitterEffectExample
+  - hash:
+      serializedVersion: 2
+      Hash: 21d73eda81c18eacd2c91ad5dfaf2e32
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextMeshPro
+  - hash:
+      serializedVersion: 2
+      Hash: 3165968ba45c74472d279ba04455fccb
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_ColorGradient
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: SimpleInputNamespace
+    className: SimpleInputDragListener
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: PlayModeRunnerCallback
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: BaseInput
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Outline
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Examples
+    className: Spineboy
+  - hash:
+      serializedVersion: 2
+      Hash: a63fc1a3b035e5a0b5839cd7f7b3086e
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 8649814970b42d345b89944b862453cc
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMesh
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestRunner.Utils
+    className: TestRunCallbackListener
+  - hash:
+      serializedVersion: 2
+      Hash: 4ef0f7d42cdb13479386e1f049c315aa
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner
+    className: PlaymodeTestsController
+  - hash:
+      serializedVersion: 2
+      Hash: 2aeeec1b1a144c469cd2d37776bc2315
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: 748dd2a2a28da4e618912da5ac45684b
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: StandaloneInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 8d388743d7d435e0a4021fd95826e140
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Examples
+    className: EquipSystemExample
+  - hash:
+      serializedVersion: 2
+      Hash: aa88ae22474df55295327e4ee99e5a24
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Toggle
+  - hash:
+      serializedVersion: 2
+      Hash: 8220b46879dc5e37db1b940c938f5744
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalEmitter
+  - hash:
+      serializedVersion: 2
+      Hash: 7072231382eb3c4871b3dd75ad0227e1
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Slider
+  - hash:
+      serializedVersion: 2
+      Hash: 4ab9c6ef5ed7f2e061a3f9c9ff1bfa52
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Spine.Unity.Examples
+    className: DataAssetsFromExportsExample
+  - hash:
+      serializedVersion: 2
+      Hash: 0fd6822f6177297bd0eb4d83cc7a9030
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ToggleGroup
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: PlayableTrack
+  platform: 13
+  scenePathNames:
+  - Assets/Game/Scenes/fight.unity
+  playerPath: C:/Users/Yahta20/Downloads/hippo.apk
